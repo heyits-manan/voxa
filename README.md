@@ -1,6 +1,6 @@
  # Voxa - YouTube Transcript Downloader
 
-Voxa is a web application that allows users to download and process YouTube video transcripts. The application consists of a Next.js frontend and a FastAPI backend.
+Voxa is a web application that allows users to download and process YouTube video transcripts. The application uses AI to summarize the video based on the Transcript and generates quizes. The application consists of a Next.js frontend and a FastAPI backend.
 
 ## Tech Stack
 
